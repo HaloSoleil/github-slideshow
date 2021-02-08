@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: #H1 My slide is ubdated
+title: "Welcome to our Updated slide!"
 ---
-Your text
-Use the left arrow to go back!
+Leave comment
+Use the Right arrow to go next!
